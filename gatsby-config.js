@@ -9,7 +9,14 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // Of course you can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/master/themes/gatsby-theme-cara/gatsby-config.js
-    siteTitleAlt: `Cara - Gatsby Starter Portfolio`,
+    siteTitle: `Deep Planet Research`,
+    siteTitleAlt: `Deep Planet Research - AI, Architecture, Aerospace`,
+    siteHeadline: `Artificial Intelligence. Software Architecture. Aerospace R&D.`,
+    siteUrl: `https://deepplanetresearch.com`,
+    siteDescription: `A one-person consultancy specializing in Artificial Intelligence, Software Architecture, and Aerospace Software and Hardware R&D.`,
+    siteLanguage: `en`,
+    siteImage: ``,
+    author: `Scott Hasbrouck`
   },
   plugins: [
     {
